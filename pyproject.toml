@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hsort"
+version = "3.0.0"
+description = "A high-performance sorting and merging engine optimized for processing large-scale data files, with stable multi-key sorting support for fixed-length, variable-length, and CSV formats."
+readme = "README.md"
+
+[project.urls]
+Homepage = "hhttps://github.com/houxh729/hsort"
+Repository = "https://github.com/houxh729/hsort"
+Issues = "https://github.com/houxh729/hsort/issues"
+
