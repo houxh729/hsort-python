@@ -9,7 +9,7 @@ description = "A high-performance sorting and merging engine optimized for proce
 readme = "README.md"
 
 [project.urls]
-Homepage = "hhttps://github.com/houxh729/hsort"
-Repository = "https://github.com/houxh729/hsort"
-Issues = "https://github.com/houxh729/hsort/issues"
+Homepage = "hhttps://github.com/xuhui-hou/hsort"
+Repository = "https://github.com/xuhui-hou/hsort"
+Issues = "https://github.com/xuhui-hou/hsort/issues"
 
